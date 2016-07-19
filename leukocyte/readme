@@ -1,0 +1,6 @@
+GitHub has a hard limit of 100 MB for a single file, so I split the original 
+input file into smaller pieces. Please run the following command the restore 
+the original input file.
+
+$ cat xaa xab > testfile.avi
+
